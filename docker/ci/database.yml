@@ -1,2 +1,0 @@
-test:
-  url: <%= ENV['DATABASE_URL'].sub(/\/appdb$/, "/appdb#{ENV['TEST_ENV_NUMBER']}") %>
