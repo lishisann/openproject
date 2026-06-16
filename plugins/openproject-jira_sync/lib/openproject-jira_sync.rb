@@ -1,0 +1,1 @@
+require 'openproject_jira_sync/engine'
